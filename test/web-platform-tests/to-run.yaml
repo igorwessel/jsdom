@@ -329,6 +329,32 @@ window-worker-timeOrigin.window.html: [fail, Needs Worker implementation]
 
 ---
 
+DIR: notifications
+
+body-basic-manual.https.html: [fail, Not implemented]
+body-empty-manual.https.html: [fail, Not implemented]
+constructor-basic.https.html: [fail, Not implemented]
+constructor-invalid.https.html: [fail, Not implemented]
+constructor-non-secure.html: [fail, Not implemented]
+event-onclick-manual.https.html: [fail, Not implemented]
+event-onclose.https.html: [fail, Not implemented]
+event-onerror-default-manual.https.html: [fail, Not implemented]
+event-onerror-denied-manual.https.html: [fail, Not implemented]
+event-onshow.https.html: [fail, Not implemented]
+icon-basic-manual.https.html: [fail, Not implemented]
+icon-empty-manual.https.html: [fail, Not implemented]
+instance.https.html: [fail, Not implemented]
+lang.https.html: [fail, Not implemented]
+permission.html: [fail, Not implemented]
+permissions-non-secure.html: [fail, Not implemented]
+requestPermission-denied-manual.https.html: [fail, Not implemented]
+requestPermission-granted-manual.https.html: [fail, Not implemented]
+shownotification-resolve-manual.https.html: [fail, Not implemented]
+tag-different-manual.https.html: [fail, Not implemented]
+tag-same-manual.https.html: [fail, Not implemented]
+
+---
+
 DIR: html/browsers/browsing-the-web/history-traversal
 
 001.html: [timeout, Unknown]

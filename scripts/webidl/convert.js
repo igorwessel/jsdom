@@ -156,6 +156,7 @@ addDir("../../lib/jsdom/living/hr-time");
 addDir("../../lib/jsdom/living/mutation-observer");
 addDir("../../lib/jsdom/living/navigator");
 addDir("../../lib/jsdom/living/nodes");
+addDir("../../lib/jsdom/living/notification");
 addDir("../../lib/jsdom/living/range");
 addDir("../../lib/jsdom/living/selection");
 addDir("../../lib/jsdom/living/svg");
